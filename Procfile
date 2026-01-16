@@ -1,1 +1,2 @@
-worker: python your_filename.py
+web: python main.py
+
